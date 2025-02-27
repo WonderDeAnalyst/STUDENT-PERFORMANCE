@@ -75,7 +75,8 @@ student-performance-prediction/
 - Implement deep learning techniques (ANN) which had a low predictive score and later unused since the GGboost and Logistic Regression gave us a best fit.
 
 ## Contributors
-- **Your Name** - Wonder Paul
+- **Wonder Paul** 
+- **https://github.com/grace2709**
 
 
 
